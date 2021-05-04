@@ -1,6 +1,12 @@
 name: package
 
-on: [push]
+on: 
+  push: {}
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  packages: write
 
 jobs:
   docker:
@@ -12,5 +18,5 @@ jobs:
           docker build -t ghcr.io/alephdata/aleph-elasticsearch:${GITHUB_SHA} .
       - name: Push docker image (hash)
         run: |
-          echo ${{ secrets.CR_PAT }} | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
+          echo ${{ secrets.GITHUB_TOKEN }} | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
           docker push ghcr.io/alephdata/aleph-elasticsearch:${GITHUB_SHA}

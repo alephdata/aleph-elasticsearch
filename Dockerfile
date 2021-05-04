@@ -1,4 +1,4 @@
-FROM elasticsearch:7.9.1
+FROM elasticsearch:7.12.1
 LABEL org.opencontainers.image.source = "https://github.com/alephdata/aleph-elasticsearch"
 
 RUN bin/elasticsearch-plugin install --batch repository-s3 \
