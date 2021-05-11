@@ -35,7 +35,7 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ghcr.io/alephdata/aleph-elasticsearch:${GITHUB_SHA}
+          tags: ghcr.io/alephdata/aleph-elasticsearch:$GITHUB_SHA
       # - name: Push docker image (hash)
       #   run: |
       #     echo ${{ secrets.GITHUB_TOKEN }} | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
