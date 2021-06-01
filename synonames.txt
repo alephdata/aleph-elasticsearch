@@ -840,7 +840,6 @@ angel, анхель
 garcia, جارسيا
 мікалаевіч, николаевич
 mikhajlovitsj, mikhaylovich
-alexander, 亚历山大
 gómez, غوميز
 vyacheslav, вячеслав
 alfred, الفريد
@@ -1109,7 +1108,6 @@ wassili, василий
 τζον, джон
 yoshio, ёсио
 willem, william
-александр, 亚历山大
 wilhelm, willem
 хироси, هيروشي
 nicholas, نيكولاس
@@ -2545,7 +2543,6 @@ ludwig, לודוויג
 gustavo, غوستافو
 томпсон, تامپسون
 dimitri, dmitri
-aleksandr, 亚历山大
 georgijewitsch, георгиевич
 oleh, олег
 claudio, claudius
@@ -2833,7 +2830,6 @@ dietrich, дитрих
 tomás, توماس
 masashi, масаси
 james, جيمي
-محمد, 穆罕默德
 toshiyuki, тосиюки
 albert, albrecht
 luisa, луиза
@@ -2895,7 +2891,6 @@ will, уилл
 solomon, سولومون
 cyril, سيريل
 pavel, pawieł
-الکساندر, 亚历山大
 michał, міхал
 nakamura, ناكامورا
 альберт, آلبرت
@@ -3390,7 +3385,6 @@ aleksander, ալեքսանդր
 duncan, دانکن
 tyler, тайлер
 elisabeth, elisabetta
-владимир, 弗拉基米尔
 christina, كريستينا
 nikolaj, николаевич
 jurgen, юрген
@@ -3599,7 +3593,6 @@ elias, إلياس
 yevhen, євген
 gonzález, جونزاليس
 william, билли
-alfred, 阿尔弗雷德
 aleksander, الکساندر
 blake, блейк
 силва, سيلڤا
@@ -3670,7 +3663,6 @@ stanislav, stanislaw
 стэнли, ستانلي
 jane, جاين
 shmuel, שמואל
-vladimir, 弗拉基米尔
 michio, митио
 hesse, гессен
 adel, عادل
@@ -4333,7 +4325,6 @@ ioannes, joan
 jose, хозе
 георгий, գեորգի
 тоору, تورو
-alexandre, 亚历山大
 bishop, بيشوب
 cynthia, سينثيا
 nassau, νασσάου
@@ -4472,7 +4463,6 @@ dani, daniel
 aleksander, aleksandras
 gregory, گرگوری
 אנדרו, اندرو
-אלכסנדר, 亚历山大
 cross, كروس
 isaakovitsj, исаакович
 gray, грэй
@@ -4855,7 +4845,6 @@ andrej, անդրեյ
 joseph, józsef
 мерфи, ميرفي
 andre, אנדרה
-олександр, 亚历山大
 rodriguez, رودريجويز
 anastasiya, анастасия
 перейра, بيريرا
@@ -5059,7 +5048,6 @@ marc, mark
 ortega, أورتيغا
 hammond, هاموند
 giovanni, iohannes
-patrick, 帕特里克
 artur, أرتور
 hojo, ходзё
 harris, האריס
@@ -5166,7 +5154,6 @@ monroe, مونرو
 stephanie, стефани
 akiyama, акияма
 sandor, ساندور
-франсуа, 弗朗索瓦
 antoine, antoni
 russia, russie
 кристиан, христиан
@@ -5291,7 +5278,6 @@ ozaki, одзаки
 jiří, иржи
 clyde, كلايد
 luis, לואיס
-fernando, 费尔南多
 constantine, константин
 салливан, سوليفان
 armando, أرماندو
@@ -5501,7 +5487,6 @@ martins, مارتينز
 chase, شايس
 boris, барыс
 gallagher, غالاغير
-ahmed, 艾哈迈德
 jurij, յուրի
 هرمان, هيرمان
 markéta, маргарита
@@ -5642,12 +5627,10 @@ willis, уиллис
 ρίτσαρντ, ричард
 willie, вилли
 farrell, فاريل
-antonio, 安东尼奥
 cabrera, كابريرا
 anastasija, anastassija
 margareta, marguerite
 margaretha, margarida
-christian, 克里斯蒂安
 thierry, тьерри
 margaretha, μαργαρίτα
 нельсон, نلسون
@@ -5894,9 +5877,7 @@ walther, вальтер
 markéta, μαργαρίτα
 washington, واشنگتن
 christine, кристина
-ألكسندر, 亚历山大
 henri, הנרי
-أحمد, 艾哈迈德
 evgenij, yevgeny
 wataru, ватару
 guilherme, вилхелм
@@ -5904,7 +5885,6 @@ werner, ورنر
 קלארק, کلارک
 pena, بينيا
 carol, کارول
-mohammed, 穆罕默德
 maría, марија
 פייר, بيير
 marguerite, markéta
@@ -6255,7 +6235,6 @@ rusiei, russie
 castillo, кастильо
 michael, mick
 stephen, стівен
-muhammad, 穆罕默德
 vilém, вилхелм
 dufour, دوفور
 viktor, فكتور
@@ -6388,7 +6367,6 @@ bjorn, бьорн
 bishop, бишоп
 claus, клаус
 norman, נורמן
-wladimir, 弗拉基米尔
 sharp, шарп
 wladislaw, владислав
 bernardo, bernat
@@ -6632,7 +6610,6 @@ elisabeth, erzsébet
 carolyn, كارولين
 carolus, کارل
 dyer, داير
-mohamed, 穆罕默德
 sverige, svezia
 andrei, אנדריי
 alexandrovič, alexandrowitsch
@@ -6797,7 +6774,6 @@ vasilevitsj, василий
 savoia, savoyen
 vladislav, wladislaw
 catherine, αικατερίνη
-الكسندر, 亚历山大
 terry, тэрри
 bourgogne, burgundy
 frança, franței
@@ -7060,7 +7036,6 @@ jacob, جاکوب
 arthur, արթուր
 peter, πέτρος
 elisabet, елизабет
-володимир, 弗拉基米尔
 osipovich, осипович
 aleksej, اليكسى
 dumont, дюмон
@@ -7112,7 +7087,6 @@ oliver, اوليڤير
 анатолий, اناتولى
 charles, չարլզ
 radziwiłł, радзівіл
-альфред, 阿尔弗雷德
 բրաուն, براون
 simon, סיימון
 baden, μπάντεν
@@ -7145,7 +7119,6 @@ cross, кросс
 bavaria, баварский
 μαρία, ماري
 smirnov, سميرنوف
-aleksander, 亚历山大
 tajima, тадзима
 oleg, oleh
 iosifovich, iosifovitsj
@@ -7559,7 +7532,6 @@ zacharovitsj, захарович
 δημήτριος, димитриос
 ιωάννης, іоанн
 адлер, أدلر
-александер, 亚历山大
 арнольд, ارنولد
 бакстер, باكستر
 вашингтон, واشنطن
@@ -7573,12 +7545,10 @@ zacharovitsj, захарович
 йохан, یوهان
 каплан, كابلان
 колин, کالین
-кристиан, 克里斯蒂安
 куинн, كوين
 кэмпбелл, کمبل
 кэрол, كارول
 леандро, لياندرو
-николаевич, 尼古拉耶维奇
 паоло, باولو
 пауло, باولو
 пауль, باول
@@ -7647,7 +7617,6 @@ henry, генры
 drummond, دراموند
 abdelkader, القادر
 мортон, مورتون
-михаил, 米哈伊尔
 гельмут, هيلموت
 marín, مارين
 shouta, shōta
@@ -7726,7 +7695,6 @@ eiko, эйко
 einar, эйнар
 marcel, مارسل
 shintarou, синтаро
-abdul, 阿卜杜勒
 shevchenko, шевченко
 christopher, քրիստոֆեր
 natalie, натали
@@ -7942,7 +7910,6 @@ cardoso, كاردوسو
 marguerite, مارغريت
 guzman, гусман
 мигель, ميجيل
-патрик, 帕特里克
 shohei, сёхэи
 rosen, روزين
 alexandra, ألكسندرا
@@ -7974,7 +7941,7 @@ martino, مارتينو
 gustave, غوستاف
 raoul, рауль
 маргарет, مارگارت
-alexander, 亞歷山大
+
 паттерсон, باترسون
 susanne, سوزان
 martinus, мартин
@@ -8247,7 +8214,6 @@ portugal, πορτογαλίας
 александр, أليكساندر
 jennings, جنینگز
 filipe, filippo
-александр, 亞歷山大
 naitou, naitō
 naito, naitou
 naishinnou, naishinnō
@@ -8384,7 +8350,6 @@ livingston, ليفينغستون
 dias, دياز
 aharon, אהרן
 sanctus, sant
-фернандо, 费尔南多
 víktor, wiktor
 tatjana, tetjana
 ahmad, אחמד
@@ -8454,7 +8419,6 @@ władimir, ולדימיר
 hugo, هوگو
 milos, ميلوس
 france, frankrike
-władimir, 弗拉基米尔
 sekiguchi, сэкигути
 даніель, דניאל
 sugawara, сугавара
@@ -8543,9 +8507,7 @@ elena, алена
 كاربنتر, کارپنتر
 murphy, מרפי
 morrow, مورو
-muhammed, 穆罕默德
 фредерик, فريديريك
-فرناندو, 费尔南多
 württemberg, вюртемберг
 ivan, xoán
 xoán, иоанн
@@ -8665,7 +8627,6 @@ lawrence, לורנס
 constantinoble, constantinopla
 robertus, רוברט
 anatoljevna, anatolyevna
-احمد, 艾哈迈德
 conti, كونتي
 mcmanus, ماكمانوس
 суарес, سواريز
@@ -8741,7 +8702,6 @@ luís, людовик
 barlow, بارلو
 luís, людвиг
 merrill, ميريل
-александър, 亚历山大
 poljakov, поляков
 алексей, أليكسي
 כריסטיאן, کریستیان
@@ -8761,7 +8721,6 @@ alžběta, єлизавета
 ludwik, людвік
 darío, داريو
 аляксандр, ألكسندر
-аляксандр, 亚历山大
 лима, ليما
 grigoryan, григорян
 petrova, petrowa
@@ -8816,7 +8775,6 @@ birch, بيرش
 paris, باريس
 gregorio, gregory
 dimitrij, dmitri
-august, 奥古斯特
 august, أوغست
 վիկտոր, ویکتور
 mario, מריו
@@ -8853,7 +8811,6 @@ angela, анджела
 suecia, sverige
 émile, اميل
 jovan, иоанн
-ալեքսանդր, 亚历山大
 arnaud, арно
 ōishi, оойси
 генрі, հենրի
@@ -9229,7 +9186,6 @@ baptista, baptiste
 meredith, مريديث
 лоуренс, לורנס
 ferrer, فيرير
-francis, 弗朗西斯
 فرانتس, فرانز
 jérôme, жером
 александър, الكسندر
@@ -9386,7 +9342,6 @@ luxemburg, luxemburgo
 bogdan, بوجدان
 hayato, хаято
 пьетро, پیترو
-فرانسوا, 弗朗索瓦
 gueorgui, георгий
 luisa, lujza
 luís, лудвиг
@@ -9625,7 +9580,6 @@ paul, پائول
 diamond, دايموند
 אלברט, آلبرت
 johannes, იოანე
-johannes, 约翰内斯
 georg, георгий
 бойд, بوید
 болдуин, بالدوين
@@ -9798,7 +9752,6 @@ mikuláš, nicolas
 koeznetsov, kuznetsov
 emile, اميل
 кристиан, кристијан
-mikhail, 米哈伊尔
 émile, امیل
 هلند, هولاند
 mikhail, mixail
@@ -9902,7 +9855,6 @@ warren, וורן
 міхаіл, միխայիլ
 дани, داني
 ioannes, iwan
-manuel, 曼努埃尔
 nikolajevitsj, nyikolajevics
 helmut, هلموت
 aragona, αραγωνίας
@@ -9924,7 +9876,6 @@ aleksandro, alexandre
 doyle, دویل
 горан, جوران
 chieko, тиэко
-douglas, 道格拉斯
 chester, چستر
 kōichirō, коитиро
 angelo, أنجيلو
@@ -10209,7 +10160,6 @@ mayo, مايو
 vjatsjeslav, ячеслав
 baviere, beieren
 townsend, تاونزند
-پاتریک, 帕特里克
 αυστρίας, аўстрыйская
 troy, трой
 romeo, روميو
@@ -10403,7 +10353,6 @@ shinya, синъя
 kateřina, екатерина
 kateřina, αικατερίνη
 ерик, اریک
-heinrich, 海因里希
 харпер, هارپر
 edward, էդուարդ
 natalja, ناتاليا
@@ -10486,7 +10435,6 @@ julius, جولیوس
 margarita, markéta
 sofía, σοφία
 sofya, софья
-ahmad, 艾哈迈德
 boyce, بويس
 àhmad, أحمد
 boyko, бойко
@@ -10798,7 +10746,6 @@ meyer, מאייר
 andrey, أندري
 erin, إيرين
 روبرت, რობერტ
-michail, 米哈伊尔
 michailas, михаил
 رافائل, رافاييل
 michajlovič, mikhajlovitsj
@@ -10865,7 +10812,6 @@ nenad, نيناد
 дэниел, דניאל
 дэвид, داوید
 niccolò, nicolo
-nicholas, 尼古拉斯
 nicholson, николсон
 дмитрий, ديمتري
 nicola, nicolò
@@ -11076,7 +11022,6 @@ sasko, saxa
 yefim, ефим
 benito, بينيتو
 benjamin, бенджамін
-hamilton, 汉密尔顿
 yamato, ямато
 schenk, шенк
 schleswig, σλέσβιχ
@@ -11088,7 +11033,6 @@ wolff, вольф
 semen, semyon
 wirtemberski, βυρτεμβέργης
 sergeevich, sergeevitsj
-williams, 威廉姆斯
 bingham, بينغهام
 christer, кристер
 björn, بچورن
@@ -11128,7 +11072,6 @@ snyder, سنايدر
 sofia, žofie
 џејмс, ջեյմս
 кэти, كاثي
-nicolas, 尼古拉斯
 чжан, ژانگ
 kamel, كامل
 nicolas, νικολά
@@ -11186,7 +11129,6 @@ mihail, ميخائيل
 хаим, חיים
 хавьер, خاویر
 nadeshda, надія
-frederick, 弗雷德里克
 mihails, mikhail
 eleanor, eleonora
 harris, гарріс
@@ -11200,7 +11142,6 @@ muto, mutou
 eleanor, элеонора
 hopkins, هاپکینز
 кріс, כריס
-фридрих, 弗里德里希
 kazimierz, كازيميرز
 watkins, واتكينز
 elena, الينا
@@ -11233,7 +11174,6 @@ khan, хаан
 francuske, frança
 kharitonov, харитонов
 кристијан, كريستيان
-mohammad, 穆罕默德
 eliza, إيليزا
 charles, շառլ
 britton, بريتون
@@ -11804,7 +11744,6 @@ chavez, تشافيز
 kristin, كريستين
 luis, лудвиг
 георгиевич, сергей
-michaił, 米哈伊尔
 георгій, გიორგი
 juan, იოანე
 dorothée, δωροθέα
@@ -11904,8 +11843,6 @@ evgenii, евгений
 mario, marius
 lidija, lydia
 мишел, ميشيل
-михайлович, 米哈伊洛维奇
-михайло, 米哈伊尔
 lichtenštejna, λίχτενσταϊν
 andreas, andrei
 marlon, مارلون
@@ -12001,7 +11938,6 @@ kralj, кароль
 enrico, henriko
 ульрих, أولريش
 michał, μιχαήλ
-alexandr, 亚历山大
 andy, енді
 уолтон, والتون
 هنری, هينرى
@@ -12148,7 +12084,6 @@ holly, холли
 эдит, إديث
 borgogna, borgoña
 aleksandrs, александър
-элизабет, 伊丽莎白
 даниел, دانیل
 эмили, إميلي
 дани, دانى
@@ -12284,7 +12219,6 @@ aleksandăr, александър
 joão, жоао
 herb, هيرب
 антоніо, אנטוניו
-антонио, 安东尼奥
 perkins, پرکینز
 perrin, перрен
 антоний, антоні
@@ -12408,7 +12342,6 @@ ricardo, riccardo
 νικολάι, микола
 ricardo, рікардо
 ismaïl, إسماعيل
-ألبرت, 阿尔伯特
 cornelia, корнелия
 μαργαρίτα, مارغريت
 goldstein, غولدستاين
@@ -12596,7 +12529,6 @@ fields, فيلدز
 alžběta, אליזבת
 ludwik, לודוויג
 alžběta, إليزابيث
-ludwig, 路德维希
 filipe, filips
 filipe, филип
 luisa, луїза
@@ -12904,7 +12836,6 @@ suede, zweden
 gerhard, گرهارد
 קנדי, کندی
 petrovich, petrovitch
-كريستيان, 克里斯蒂安
 christine, кристине
 borgonya, bourgondie
 wendy, وندی
@@ -12942,7 +12873,6 @@ alex, ալեքս
 gregor, gregorio
 borisovich, borisovič
 марко, מרקו
-мухаммед, 穆罕默德
 shooter, sport
 andreï, اندرى
 luxembourg, λουξεμβούργου
@@ -13083,7 +13013,6 @@ daichi, даити
 جارسيا, گارسیا
 spain, spanien
 александар, الكسندر
-александар, 亚历山大
 марин, مارين
 pomerania, pommern
 göran, йоран
@@ -13154,7 +13083,6 @@ grand, grande
 гарріс, харрис
 iwamoto, ивамото
 наварро, نافارو
-николас, 尼古拉斯
 ołeksij, алексей
 schubert, شوبرت
 erich, еріх
@@ -13377,10 +13305,8 @@ nicolás, nikolaus
 saksen, саксония
 teresa, theresia
 frances, فرانسیس
-уильямс, 威廉姆斯
 júlio, юлій
 iouri, juriy
-мохаммед, 穆罕默德
 anatoli, آناتولی
 jones, ջոնս
 valerius, валерій
@@ -13539,7 +13465,6 @@ aule, aulus
 nikolajus, микола
 johannes, یوهانس
 tina, تینا
-georg, 格奥尔格
 morais, مورايس
 tkatsjenko, ткаченко
 moraes, مورايس
@@ -13638,7 +13563,6 @@ charley, تشارلي
 جيمس, ჯეიმზ
 shizuka, сидзука
 даниель, דניאל
-نيكولاس, 尼古拉斯
 даниел, دانييل
 нестор, نيستور
 chin, تشين
@@ -13720,7 +13644,6 @@ armstrong, ארמסטרונג
 castela, castilla
 henk, هينك
 michaił, mijail
-alexandre, 亞歷山大
 sherman, шерман
 гарсія, گارسیا
 dominique, домінік
@@ -13747,7 +13670,6 @@ arthur, άρθουρ
 oostenrijk, австрийска
 oostenrijk, австрійська
 arthur, артър
-michael, 米夏埃尔
 kurokawa, курокава
 catarina, katarina
 josef, յոզեֆ
@@ -13882,7 +13804,6 @@ pavel, بافل
 aleksandr, aleksandro
 walt, walter
 такэда, تاكيدا
-אלכסנדר, 亞歷山大
 pavlovitsj, валерий
 georges, georgo
 אלפרד, ألفريد
@@ -13891,7 +13812,6 @@ hirsch, הירש
 такахиро, تاكاهيرو
 такаси, تاکاشی
 баварски, баварский
-ахмед, 艾哈迈德
 макдональд, دانلد
 pedro, pero
 ignaz, ignác
@@ -14011,7 +13931,6 @@ bajor, بافاريا
 piotr, بيوتر
 hedwig, jadwiga
 lindsay, لیندسی
-алексей, 阿列克谢
 alejandria, alessandria
 spain, ισπανίας
 vladímir, ولادیمیر
@@ -14036,7 +13955,6 @@ jennings, дженнингс
 espanha, spanien
 potocki, потоцький
 رودريغيز, رودریقز
-מוחמד, 穆罕默德
 aaron, אהרון
 espanya, españa
 preussen, pruisen
@@ -14333,7 +14251,6 @@ bradley, براد
 farley, فارلي
 fabius, fábio
 felip, philipp
-gonzalez, 冈萨雷斯
 santa, święta
 yōhei, ёхэи
 santiago, сантяго
@@ -14365,7 +14282,6 @@ yanagi, янаги
 bryce, برايس
 grant, قرانت
 sweden, שוודיה
-gonzález, 冈萨雷斯
 vasilyev, wassiljew
 yamakawa, ямакава
 savoyen, савойская
@@ -14466,7 +14382,6 @@ kiichi, киити
 khristo, христо
 anthony, ентони
 alexander, alexandrovich
-alekszandr, 亚历山大
 khalil, خلیل
 франсоа, ֆրանսուա
 bonnie, бонни
@@ -14476,7 +14391,6 @@ komnen, komnenos
 iliya, илия
 suecia, suediei
 mike, ميكى
-دوغلاس, 道格拉斯
 камерон, کامرون
 elisabeta, elżbieta
 monte, مونتي
@@ -14500,7 +14414,6 @@ håkan, хокан
 фред, فريد
 йонг, جونغ
 franz, φραντς
-stuart, 斯图尔特
 komnen, κομνηνός
 йоан, იოანე
 komnen, комнин
@@ -14552,7 +14465,6 @@ frederik, hendrik
 christian, kristián
 honore, оноре
 mihailo, михаил
-mihail, 米哈伊尔
 nadezhda, nadieżda
 федор, фёдар
 mihail, միխայիլ
@@ -14574,7 +14486,6 @@ naples, nápoles
 alexander, اليكساندريه
 grigor, григорович
 kassel, έσσης
-victoria, 维多利亚
 naser, ناصر
 kasimir, kazimierz
 федерико, فدریکو
@@ -14834,7 +14745,6 @@ mervyn, ميرفين
 belgia, belgique
 yulia, юлія
 brien, اوبراين
-фредерик, 弗雷德里克
 yūki, یوکی
 ольга, אולגה
 edward, εδουάρδος
@@ -14962,7 +14872,6 @@ yordan, йордан
 յուրի, יורי
 برتون, بورتون
 margarete, маргарета
-кристофер, 克里斯托弗
 owen, овен
 marta, martha
 müll, müller
@@ -15132,7 +15041,6 @@ schah, shah
 mykola, nikolaj
 aleksey, אלכסיי
 márcio, مارسيو
-francisco, 弗朗西斯科
 fanny, فاني
 oliver, olivier
 xavier, زاڤير
@@ -15193,7 +15101,6 @@ marija, mária
 holsten, χόλσταϊν
 charles, parker
 kathryn, کاترین
-wolfgang, 沃尔夫冈
 weston, уэстон
 markéta, маргарета
 honda, هوندا
@@ -15274,7 +15181,6 @@ francia, francouzská
 juan, juhana
 portugal, პორტუგალიელი
 portugal, פורטוגל
-نیکولاس, 尼古拉斯
 לינדה, لیندا
 александра, ألكسندرا
 anjou, ανζού
@@ -15394,7 +15300,6 @@ emanuel, emanuele
 miranda, میراندا
 mircea, мирча
 адриан, אדריאן
-алфред, 阿尔弗雷德
 gunter, günther
 giovanni, ђовани
 альберто, البيرتو
@@ -15612,7 +15517,6 @@ akimovich, акимович
 lily, лили
 грегорі, غريغوري
 wadimowitsch, вадимович
-дмитрий, 德米特里
 νίκος, نيكوس
 maguire, ماغيري
 mohamed, мухамед
@@ -15655,7 +15559,6 @@ brooks, ברוקס
 peter, პიტერ
 amir, אמיר
 григорий, գրիգոր
-ألكسندر, 亞歷山大
 alexander, ألكساندر
 achille, ашиль
 peter, petter
@@ -16320,7 +16223,6 @@ mohammad, мохамед
 eliza, elizabeth
 mohammed, muhamed
 mohammed, μοχάμεντ
-elisabeth, 伊丽莎白
 moiseevich, моисеевич
 moisés, مويسيس
 moiseyevich, моисеевич
@@ -16390,7 +16292,6 @@ nikolajevič, nyikolajevics
 duncan, דאנקן
 nikolajevitsj, nikolaïevitch
 nikołajewicz, николаевич
-nikolajewitsch, 尼古拉耶维奇
 nikolajus, nikołaj
 nikolao, николай
 ducas, дука
@@ -16595,7 +16496,6 @@ schulz, شولتز
 schwarzbourg, шварцбург
 schweden, suède
 christopher, kristofer
-sebastian, 塞巴斯蒂安
 seiichiro, сэйитиро
 christo, khristo
 semjonovič, семёнович
@@ -16777,7 +16677,6 @@ brandebourg, бранденбургская
 bragance, braganza
 ناکس, نوكس
 vladimir, βλάντιμιρ
-vladímir, 弗拉基米尔
 vladimirs, wladimir
 vladislavovich, владиславович
 vlagyimir, ולדימיר
@@ -16890,15 +16789,12 @@ batista, battista
 φιλίπ, филипп
 φρανκ, френк
 bashir, بشیر
-φρανσουά, 弗朗索瓦
 χάινριχ, генрих
 χανς, هانس
 χένρι, هنري
 χέρμαν, херман
 аарон, אהרן
-абдул, 阿卜杜勒
 август, аугуст
-август, 奥古斯特
 австрийска, аўстрыйская
 австрийска, ავსტრიელი
 агустин, اجوستين
@@ -16956,7 +16852,6 @@ auguste, أوغست
 васкес, فاسكيز
 attila, اتيلا
 вернер, ורנר
-виктория, 维多利亚
 вилијамс, уильямс
 atenas, athens
 åström, острём
@@ -17039,7 +16934,6 @@ annette, أنيت
 коннор, كونور
 anhaltsko, ангальт
 константин, کنستانتین
-константин, 康斯坦丁
 anhalt, anhaltsko
 кристијан, крістіан
 кристијан, כריסטיאן
@@ -17215,7 +17109,6 @@ aleksandras, ألكسندر
 ջոնաթան, ונתן
 ջոնսոն, جانسون
 aleksandras, aleksandrs
-aleksandr, 亞歷山大
 սթիվ, استیو
 սթիվ, ستيف
 սմիթ, סמית
@@ -17229,9 +17122,7 @@ aleksandr, aliaksandr
 איוואן, ايفان
 aaron, ארון
 אלכס, الکس
-aleksander, 亞歷山大
 אנטוניו, أنطونيو
-aleksandar, 亚历山大
 aleksandar, الكسندر
 גרדנר, غاردنر
 הופמן, هافمن
@@ -17273,7 +17164,6 @@ akashi, акаси
 استار, ستار
 الرحيم, عبدالرحيم
 الغني, عبدالغني
-الکساندر, 亞歷山大
 ایقور, ایگور
 aguirre, агирре
 aguilera, أغيليرا
@@ -17298,7 +17188,6 @@ adrien, أدريان
 جیمز, ჯეიმზ
 دبورا, ديبورا
 adriaan, адриан
-دومينيك, 多米尼克
 adolph, ادولف
 رابرٹ, روبرت
 adolph, adolphe
@@ -17323,7 +17212,6 @@ helene, элен
 hélène, هيلين
 helmut, helmuth
 harding, هاردینگ
-فرانسیس, 弗朗西斯
 hendrik, henriko
 hendrik, هندريك
 henri, анры
@@ -17518,7 +17406,6 @@ hutchinson, хатчинсон
 فارل, فاريل
 clarkson, كلاركسون
 خوسيه, ხოსე
-auguste, 奥古斯特
 мітчелл, ميتشيل
 dimitar, dimityr
 abraham, абрам
@@ -17667,7 +17554,6 @@ dmitrij, ديمتري
 goodwin, گودوین
 ethel, إثيل
 mathias, ماتياس
-dmitrij, 德米特里
 andrei, اندريه
 марти, مارتی
 alejandro, آلخاندرو
@@ -17964,7 +17850,6 @@ dumas, دوماس
 anson, أنسون
 אוסקר, اسکار
 johano, juhana
-nikolajevič, 尼古拉耶维奇
 кели, келлі
 aragona, aragão
 давидов, давыдов
@@ -18150,7 +18035,6 @@ naoemov, наумов
 nicholas, nicola
 eduardo, إدوارد
 naomi, נעמי
-дуглас, 道格拉斯
 naples, neapole
 շառլ, شارل
 bohemen, βοημίας
@@ -18231,7 +18115,6 @@ teresa, terézia
 rudolph, рудолф
 ալեքսեյ, אלכסיי
 sonia, سونیا
-ալեքսանդր, 亞歷山大
 تایلور, تیلور
 rūdolfs, рудольф
 jovan, იოანე
@@ -18710,9 +18593,7 @@ laurent, لاورينت
 wjatscheslawowna, вячеславовна
 alexei, alexis
 francia, frantziakoa
-стюарт, 斯图尔特
 hieronymus, jerome
-alexei, 阿列克谢
 alexeï, ալեքսեյ
 francia, francio
 iossifowna, иосифовна
@@ -18745,7 +18626,6 @@ prince, príncep
 hubert, губерт
 alfons, ألفونس
 francesc, франсеск
-آلبرت, 阿尔伯特
 آگوستوس, أغسطس
 brouwer, بروير
 alfonso, афонсу
@@ -19000,7 +18880,6 @@ petar, πέτρος
 volodymyrovych, владимирович
 austrick, àustria
 alberto, ألبيرتو
-alberto, 阿尔贝托
 lujza, луїза
 пьетро, بيترو
 публий, פובליוס
@@ -19459,7 +19338,6 @@ cyril, cyryl
 алварес, ألفاريز
 princess, princezna
 czartoryski, чарторыйский
-алекс, 亚历克斯
 prince, πρίγκιπας
 алекса, олександр
 prince, πρίγκηπας
@@ -19479,7 +19357,6 @@ portugal, партугальская
 portugal, portugalio
 iohannes, иоганн
 danemarcei, dänemark
-александър, 亞歷山大
 poméranie, померанская
 poland, polen
 pokrovskiy, покровский
@@ -19556,7 +19433,6 @@ petar, petro
 persia, περσίας
 debra, دبرا
 debra, ديبرا
-антоніо, 安东尼奥
 антуан, آنتوان
 антъни, энтони
 declan, ديكلان
@@ -19677,7 +19553,6 @@ ilse, ильзе
 oszmán, szultán
 oswald, اوسوالد
 østrig, אוסטריה
-هاميلتون, 汉密尔顿
 вільям, ўільям
 dmitrijevič, дмитрович
 вільямс, ويليامز
@@ -19753,7 +19628,6 @@ noble, ноубл
 archduke, arhiducele
 nishioka, нисиока
 doukas, dukas
-nikolayevich, 尼古拉耶维奇
 dreyfus, дрейфус
 dror, דרור
 drummond, драммонд
@@ -19801,7 +19675,6 @@ aragoikoa, aragón
 eastman, إيستمان
 nikolaevich, nikolay
 edmond, эдмунд
-nikolaevič, 尼古拉耶维奇
 nikolaev, nikolayev
 nikki, نیکی
 aragão, aragón
@@ -19845,7 +19718,6 @@ nicholas, nikolaj
 niccolo, nicola
 antônio, антониу
 niall, نايل
-eduardo, 爱德华多
 فلپس, فيلبس
 nguyen, نجوين
 дэмиан, داميان
@@ -19877,7 +19749,6 @@ edvin, edwin
 edward, edwin
 natalia, наталија
 edward, ედუარდ
-елизабет, 伊丽莎白
 efendi, أفندي
 nascimento, ناسیمنتو
 ignatjewitsch, игнатьевич
@@ -20022,7 +19893,6 @@ michaylovitsj, михайло
 ларри, لارى
 michal, michel
 ларри, لاری
-ibrahim, 易卜拉欣
 michajłowicz, михайлович
 ласло, لازلو
 ibrahim, ايبراهيم
@@ -20061,7 +19931,6 @@ méndez, مينديز
 льюїс, לואיס
 menachem, менахем
 iakov, yakov
-людвиг, 路德维希
 melvin, ملوین
 melo, нело
 melnikow, мельников
@@ -20081,7 +19950,6 @@ médici, médicis
 макдональд, دونالد
 маккарти, کارتی
 максим, מקסים
-максим, 马克西姆
 максимилиан, מקסימיליאן
 mcnamara, نامارا
 мануел, مانوئل
@@ -20228,7 +20096,6 @@ anatolii, анатолий
 manuel, εμμανουήλ
 manuel, marques
 manu, manuel
-олександр, 亞歷山大
 олександрович, олексій
 олександрович, ալեքսանդր
 manoel, مانويل
@@ -20285,7 +20152,6 @@ fernandes, فرناندز
 hermann, германн
 lusignan, лузиньян
 портер, پورتر
-fernandez, 费尔南德斯
 пьетро, פייטרו
 luisa, luiza
 amalia, amálie
@@ -20369,7 +20235,6 @@ frances, francis
 leopoldo, леополд
 hector, гектор
 hugh, ούγος
-ولادیمیر, 弗拉基米尔
 alfons, الفونس
 alfons, альфонсо
 alexis, الکسیس
@@ -20480,7 +20345,6 @@ kinaní, الكناني
 kiev, kijevi
 khamis, خميس
 франсоа, ფრანსუა
-франсоа, 弗朗索瓦
 fransua, פרנסואה
 franz, франсуа
 kendall, کندال
@@ -20521,7 +20385,6 @@ katarina, αικατερίνη
 харис, харрис
 харис, هریس
 харолд, هارولد
-aleksej, 阿列克谢
 károly, كارولي
 károly, كارل
 frederiko, fryderyk
@@ -20944,7 +20807,6 @@ vasiljev, wassiljew
 sylvain, сильвен
 vasiljevitj, васильевич
 buddy, бадди
-البرت, 阿尔伯特
 syarhey, сяргей
 التالت, الثالث
 swetlana, switlana
@@ -21322,7 +21184,6 @@ jakub, ιάκωβος
 ponomarjov, пономарёв
 fran, franc
 baptist, батист
-себастьян, 塞巴斯蒂安
 baptista, batista
 ling, zhang
 sicilias, sicilië
@@ -21351,7 +21212,6 @@ gregory, gregório
 france, francouzský
 lidia, lidija
 александра, александровна
-abdullah, 阿卜杜拉
 sicilias, sicilies
 barakat, بركات
 goesev, gusev
@@ -21649,7 +21509,6 @@ bevan, بيفان
 федеріко, فيديريكو
 hristo, khristo
 konstantinos, константин
-konstantin, 康斯坦丁
 φραγκίσκος, франческо
 souichirou, sōichirō
 ivánovich, иванович
@@ -22351,7 +22210,6 @@ sille, شیللا
 eduardo, едуард
 رامزي, رمزی
 naishinnou, найсинно
-доминик, 多米尼克
 nicholls, николлс
 naishinno, найсинно
 nicholson, نیکلسون
@@ -22705,7 +22563,6 @@ norvegiei, norvég
 mihajlovics, mikhailovich
 георгі, георгій
 joaquim, جواكيم
-георгий, 格奥尔基
 georgijewna, georgiyevna
 георгий, גאורגי
 arkadjevitsj, arkadyevich
@@ -22890,7 +22747,6 @@ andrejus, андрей
 майкл, مایک
 andrejs, андрій
 майкъл, მაიკლ
-dmitry, 德米特里
 orange, prince
 singer, songwriter
 clay, كلاى
@@ -22929,7 +22785,6 @@ mccracken, ماكراكين
 mccormick, маккормик
 вокер, واکر
 вокер, уокер
-мануэль, 曼努埃尔
 andrejevič, andreyevich
 mazovie, μαζοβίας
 dmitry, dmytro
@@ -23089,7 +22944,6 @@ marti, مارتى
 palacios, بالاسيوس
 יוסף, یوسف
 andreas, آندره
-داگلاس, 道格拉斯
 микола, نیکولای
 paolo, paweł
 marquis, ماركيز
@@ -23214,7 +23068,6 @@ spolète, сполетський
 patel, باتل
 мурат, مراد
 mari, mary
-augustus, 奥古斯特
 dickerson, ديكرسون
 marguerite, маргарыта
 patriks, патрик
